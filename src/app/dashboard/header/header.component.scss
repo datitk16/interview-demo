@@ -1,16 +1,15 @@
 @import '../../../styles/variables.scss';
+@import '../../../styles/mixin.scss';
 
 .header {
     background-color: $primary;
     color: #fff;
-    padding: 20px;
+    padding: 20px 0;
     position: sticky;
     top: 0;
 
     .container {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
+        @include space-between;
     }
 
     .btn {
