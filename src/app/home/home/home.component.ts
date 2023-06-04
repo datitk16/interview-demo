@@ -40,6 +40,102 @@ export class HomeComponent {
       image: 'woman.jpeg',
       content: 'Product name is quite long in some case'
     },
+    {
+      image: 'gau.png',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'woman.jpeg',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'gau.png',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'woman.jpeg',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'gau.png',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'woman.jpeg',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'gau.png',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'woman.jpeg',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'gau.png',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'woman.jpeg',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'gau.png',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'woman.jpeg',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'gau.png',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'woman.jpeg',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'gau.png',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'woman.jpeg',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'gau.png',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'woman.jpeg',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'gau.png',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'woman.jpeg',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'gau.png',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'woman.jpeg',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'gau.png',
+      content: 'Product name is quite long in some case'
+    },
+    {
+      image: 'woman.jpeg',
+      content: 'Product name is quite long in some case'
+    },
 
 
   ]
